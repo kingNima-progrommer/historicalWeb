@@ -1,6 +1,7 @@
 .listChanges {
   list-style-type: none;
-  padding: 1% 4% 1% 4%;
+  padding: 1% 3% 1% 3%;
+  font-size: medium;
 }
 .navChanges {
   display: flex;
@@ -18,6 +19,7 @@
 }
 .linkChanges {
   text-decoration: none;
+  color: black;
 }
 .googleFont {
   font-family: "Indie Flower", cursive;
